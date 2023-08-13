@@ -19,7 +19,7 @@
     
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Promesis&bg_color=ffffff&color=99004d&line=ffb3e5&point=ff99dd&area=true&hide_border=false" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Promesis&show_icons=true" alt="Promesis's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Promesis&show_icons=true&count_private=true&theme=rose" alt="Promesis's GitHub Stats">
   
   <a href="https://github.com/starlitnightsky">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Promesis&theme=light" />
