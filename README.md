@@ -37,7 +37,7 @@
 - [**dimensium-base**](https://github.com/dimensium/dimensium-base)(previously called "libFreecraft")
 ![GitHub commit activity (branch)](http://img.shields.io/github/commit-activity/t/dimensium/dimensium-base/master?style=flat-square&label=dimensium-base%20commits&labelColor=3bb300&color=grey)
 ![GitHub closed pull requests](http://img.shields.io/github/issues-pr-closed/dimensium/dimensium-base?style=flat-square&label=dimensium-base%20PRs&labelColor=ff751a&color=grey)
-- [dimensium coding standard](https://github.com/dimensium/CodingStandard)
+- [Dimensium Docs](https://github.com/dimensium/docs)
 - [libIntent](https://github.com/dimensium/libIntent)
 
 
