@@ -43,8 +43,6 @@
 
 
 - [**dimensium/dimensium-base**](https://github.com/dimensium/dimensium-base)(previously called "libFreecraft")
-![GitHub commit activity (branch)](http://img.shields.io/github/commit-activity/t/dimensium/dimensium-base/master?style=flat-square&label=dimensium-base%20commits&labelColor=3bb300&color=grey)
-![GitHub closed pull requests](http://img.shields.io/github/issues-pr-closed/dimensium/dimensium-base?style=flat-square&label=dimensium-base%20PRs&labelColor=ff751a&color=grey)
 - [**dimensium/docs**](https://github.com/dimensium/docs)
 - [dimensium/libIntent](https://github.com/dimensium/libIntent)
 
@@ -142,10 +140,7 @@ Things I interested at:
 
 
 
-
-> Avatar is available in this repository. view code and download it by cloning or directly downloading.
-
-## <div align="center">"Read me" :eyes: </div>
+## <div align="center">:eyes: Read ME :eyes: </div>
 
 ### Some... childhood experience
 
