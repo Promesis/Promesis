@@ -4,11 +4,17 @@
     <img src="https://i.postimg.cc/sgJdkgtD/center.png" alt="Avatar Image" width=512 height=512>
 </div>
 
+<div align="center">
+    <b>I :heart: init.vim and I cannot lie.</b> 
+    <br> <br>
+</div>
+
 <div align="center"> 
+    
   <a href="https://badges.toozhao.com/stats/01H6TVY6WZY8FF1WJ8HYET49SE">
     <img src="https://badges.toozhao.com/badges/01H6TVY6WZY8FF1WJ8HYET49SE/blue.svg">
   </a>
-<img alt="Static Badge" src="http://img.shields.io/badge/love-needed-pink?style=flat-square&labelColor=ff99dd">
+<img alt="Static Badge" src="http://img.shields.io/badge/love-needed-pink?style=flat-square&labelColor=ff99cc">
 <img alt="Static Badge" src="http://img.shields.io/badge/friends-a_lot-grey?style=flat-square&labelColor=99ddff">
 
 
@@ -31,14 +37,16 @@
 
 
 
-**I'm a programmer, I'm a human.**
+<div align="center">
+    <b>"Pinned" projects:</b>
+</div>
 
-**"Pinned" projects:**
-- [**dimensium-base**](https://github.com/dimensium/dimensium-base)(previously called "libFreecraft")
+
+- [**dimensium/dimensium-base**](https://github.com/dimensium/dimensium-base)(previously called "libFreecraft")
 ![GitHub commit activity (branch)](http://img.shields.io/github/commit-activity/t/dimensium/dimensium-base/master?style=flat-square&label=dimensium-base%20commits&labelColor=3bb300&color=grey)
 ![GitHub closed pull requests](http://img.shields.io/github/issues-pr-closed/dimensium/dimensium-base?style=flat-square&label=dimensium-base%20PRs&labelColor=ff751a&color=grey)
-- [Dimensium Docs](https://github.com/dimensium/docs)
-- [libIntent](https://github.com/dimensium/libIntent)
+- [**dimensium/docs**](https://github.com/dimensium/docs)
+- [dimensium/libIntent](https://github.com/dimensium/libIntent)
 
 
 
@@ -48,7 +56,7 @@ Favorite languages:
 - Rust & Typescript
 - Java
 
-## Skillset  
+## <div align="center">Skillset</div>
 <table><tr><td valign="top" width="33%">
 
 
@@ -137,7 +145,7 @@ Things I interested at:
 
 > Avatar is available in this repository. view code and download it by cloning or directly downloading.
 
-## "Read me" :eyes:
+## <div align="center">"Read me" :eyes: </div>
 
 ### Some... childhood experience
 
