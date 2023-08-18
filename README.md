@@ -51,8 +51,8 @@
 Favorite languages:
 - C / **C++** (**#1 liked**, which I've already MASTERED)
 - C# (**#2 liked**, *learning now*)
-- Rust & Typescript
-- Java
+- Rust
+- Typescript & Javascript
 
 ## <div align="center">Skillset</div>
 <table><tr><td valign="top" width="33%">
