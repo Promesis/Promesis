@@ -1,7 +1,7 @@
 # <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=200&color=F15CF7&center=true&repeat=false&width=512&height=80&lines=Prometheus;No%2C+not+%22Prometheus%22.;Promesis+%3A)" alt="Promesis" /></a></div>
 
 <div align="center" >
-    <img src="https://i.postimg.cc/nV9xb3Kp/pink-grassland-round.png" alt="Avatar Image" width=512 height=512>
+    <img src="https://i.postimg.cc/9Q5YpLGW/pink-park-round-small.png" alt="Avatar Image" width=512 height=512>
 </div>
 
 <div align="center">
@@ -204,3 +204,9 @@ A new path made of solid are under my foot. I had a lot of time to run, to code,
 I admit that I am a human and cannot learn 60% of technological fields, let alone learn it before my 20. But even if I haven't tried it much, I already have a plan on how to further my education in information technology and how to fully utilize it to improve my personal life.
 
 Thank you for reading this. Thank you for reading me.
+
+## <div align="center"> :camera: My QR Code :camera_flash: </div> 
+
+<div align="center">
+    <img src="https://i.postimg.cc/8CznVysh/qr-code-1.png" alt="QR Code">
+</div>
