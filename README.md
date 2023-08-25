@@ -1,7 +1,7 @@
 # <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=200&color=F15CF7&center=true&repeat=false&width=512&height=80&lines=Prometheus;No%2C+not+%22Prometheus%22.;Promesis+%3A)" alt="Promesis" /></a></div>
 
 <div align="center" >
-    <img src="https://i.postimg.cc/9Q5YpLGW/pink-park-round-small.png" alt="Avatar Image" width=512 height=512>
+    <img src="https://i.postimg.cc/rww8G8Kt/black-forest-small.png" alt="Avatar Image" width=512 height=512>
 </div>
 
 <div align="center">
