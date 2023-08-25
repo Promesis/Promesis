@@ -437,8 +437,6 @@ Thank you for reading this. Thank you for reading me.
     </pre>
 </details>
 
-## <div align="center"> :camera: My QR Code :camera_flash: </div> 
-
 <div align="center">
-    <img src="https://i.postimg.cc/8CznVysh/qr-code-1.png" alt="QR Code">
+    <img src="https://i.postimg.cc/8CznVysh/qr-code-1.png" alt="QR Code" width=512 height=512>
 </div>
