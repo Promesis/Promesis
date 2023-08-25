@@ -25,7 +25,7 @@
     <br> 
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Promesis&bg_color=ffffff&color=61c694&line=9fedd7&point=3fdfd2&area=false&hide_border=false" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Promesis&show_icons=true&count_private=true&theme=rose" alt="Promesis's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Promesis&show_icons=true&count_private=true&theme=vue" alt="Promesis's GitHub Stats">
     <a href="https://github.com/starlitnightsky">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Promesis&theme=light" />
     </a>
