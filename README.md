@@ -438,6 +438,4 @@ Thank you for reading this. Thank you for reading me.
 </details>
 
 #### @Promesis :camera_flash:
-<div align="center">
-    <img src="https://i.postimg.cc/8CznVysh/qr-code-1.png" alt="QR Code" width=512 height=512>
-</div>
+<img src="https://i.postimg.cc/8CznVysh/qr-code-1.png" alt="QR Code" width=512 height=512>
